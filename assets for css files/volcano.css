@@ -1,4 +1,41 @@
 h1{
     color: blue;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: oblique;
+    text-align: end;
+    text-decoration: dotted;
+    text-overflow: ellipsis;
+    text-shadow: 2px 12px 1px;
+    
 
+}
+h2{
+    color: brown;
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    text-align: left;
+    text-decoration: double;
+    text-overflow: initial;
+    text-shadow: 12px 10px 5px;
+}
+h3{
+    color: aqua;
+    font-size: larger;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: calc(10px 2px 23px);
+    text-align: start;
+    text-decoration: line-through;
+    text-overflow: unset;
+    text-shadow: 12px 13px 14px;
+}
+h4{
+    color: blueviolet;
+    font-size: small;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: oblique;
+    text-align: calc(40% - 50px);
+    text-decoration: solid;
+    text-overflow: ;
 }
