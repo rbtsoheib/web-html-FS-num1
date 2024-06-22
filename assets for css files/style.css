@@ -1,0 +1,14 @@
+h1 {
+    color: aqua;
+    font-size: larger;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: oblique;
+    text-align: center;
+}
+img{ 
+    height: 200px;
+    width: 200px;
+    margin: auto 20px;
+    border: 20px solid aqua;
+    padding: 30px;
+}
